@@ -1,0 +1,19 @@
+.footer{
+  background-color:slategray;
+  color:white;
+  position:absolute;
+  right:0%;
+  left:0%;
+}
+.footer > p{
+  margin-bottom:25px;
+  margin-top:25px;
+}
+.footer a{
+  text-decoration:underline;
+  color:white;
+}
+.footer a:hover{
+  text-decoration:none;
+  color:white;
+}

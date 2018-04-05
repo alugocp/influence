@@ -1,0 +1,15 @@
+.heading{
+  background-color:purple;
+  position:absolute;
+  right:0%;
+  left:0%;
+}
+.heading > h1{
+  margin-bottom:50px;
+  margin-top:50px;
+  font-weight:bold;
+  color:white;
+}
+nav + .heading{
+  margin:-20px;
+}

@@ -1,0 +1,21 @@
+#content{
+  font-size:18px;
+  color:gray;
+}
+
+#content a{
+  text-decoration:underline;
+  color:skyblue;
+}
+#content a:hover{
+  text-decoration:none;
+  color:skyblue;
+}
+
+#content h1{
+  font-weight:bold;
+  color:purple;
+}
+#content hr{
+  border-top:solid 1px purple;
+}

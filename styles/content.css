@@ -1,6 +1,10 @@
+body{
+  overflow-x:hidden;
+}
 #content{
   font-size:18px;
   color:gray;
+  margin-top:25px;
 }
 
 #content a{

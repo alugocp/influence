@@ -1,4 +1,4 @@
-var site={};
+dvar site={};
 
 $(document).ready(function(){
   site.heading=$(".heading");

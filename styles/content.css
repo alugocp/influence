@@ -23,3 +23,6 @@ body{
 #content hr{
   border-top:solid 1px purple;
 }
+#content .topic:hover{
+  text-decoration:underline;
+}

@@ -4,5 +4,5 @@ $(document).ready(function(){
   site.heading=$(".heading");
   site.content=$("#content");
 
-  site.setContent("Foreign Economic Influence","home");
+  site.setContent("Foreign Economic Influence","citizens");
 });

@@ -26,3 +26,6 @@ body{
 #content .topic:hover{
   text-decoration:underline;
 }
+.citation{
+  color:black;
+}
